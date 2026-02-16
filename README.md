@@ -29,7 +29,7 @@ The source facts are stored as a list of JSON objects containing the prompt temp
 ```
 
 
-### Result Files (entanglement_results_[model].json)
+### Result Files (Entanglement graphs: entanglement_results_[model].json)
 
 The results files contain two main sections:
 
