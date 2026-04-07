@@ -9,7 +9,7 @@ entanglement_results_GPT2-XL.json: Entanglement metrics computed for the GPT2-XL
 
 entanglement_results_gpt_J.json: Entanglement metrics computed for the GPT-J (6B) model.
 
-entanglement_results_Llama3.json: Entanglement metrics computed for the Llama3 (8B) model.
+entanglement_results_Llama3-Instruct.json: Entanglement metrics computed for the Llama3-Instruct (8B) model.
 
 
 ## 📊 Data Format
@@ -64,4 +64,4 @@ GPT2-XL result file: https://drive.google.com/file/d/1LeiJT7H-b8IYz8e4krgrikNC1F
 
 GPT-J result file: https://drive.google.com/file/d/1ugsakJbe4bYWp1uEXTEvBCYhbHH0TJMR/view?usp=sharing
 
-Llama3 result file: https://drive.google.com/file/d/1_E8ijhbt4pwDgzLZMDqSHMGodmDwaYxk/view?usp=sharing
+Llama3-Instruct result file: https://drive.google.com/file/d/1_E8ijhbt4pwDgzLZMDqSHMGodmDwaYxk/view?usp=sharing
